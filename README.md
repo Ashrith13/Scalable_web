@@ -96,13 +96,3 @@ Push your code to GitHub — your site will auto-deploy!
 * Add your custom domain and update nameservers
 * Point domain to S3 endpoint
 * Enable **SSL/TLS**, **Always use HTTPS**, and **Caching**
-
-
-This project is free to use for educational purposes.
-
-```
-
----
-
-Let me know if you’d like help generating the `deploy.yml` file or uploading screenshots to complete the README.
-```
